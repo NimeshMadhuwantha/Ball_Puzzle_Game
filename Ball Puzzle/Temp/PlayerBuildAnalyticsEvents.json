@@ -1,0 +1,192 @@
+{
+  "player_build_data": [
+    {
+      "type": "playerBuildTimingData",
+      "msg": {
+        "build_event_id": "7d6a212a51c0dd641929f1d4cd95d15a",
+        "build_player": 30175,
+        "preprocess_player": 23,
+        "produce_player_script_assemblies": 19195,
+        "build_scripts_dlls": 47,
+        "writing_asset_files": 657,
+        "postprocess_built_player": 7331,
+        "node_summary_table": [
+          {
+            "name": "Csc",
+            "duration": 1612
+          },
+          {
+            "name": "Csc",
+            "duration": 2732
+          },
+          {
+            "name": "Csc",
+            "duration": 1206
+          },
+          {
+            "name": "Csc",
+            "duration": 321
+          },
+          {
+            "name": "Csc",
+            "duration": 2088
+          },
+          {
+            "name": "Csc",
+            "duration": 395
+          },
+          {
+            "name": "Csc",
+            "duration": 542
+          },
+          {
+            "name": "Csc",
+            "duration": 113
+          },
+          {
+            "name": "Csc",
+            "duration": 1572
+          },
+          {
+            "name": "Csc",
+            "duration": 1748
+          },
+          {
+            "name": "Csc",
+            "duration": 1472
+          },
+          {
+            "name": "Csc",
+            "duration": 521
+          },
+          {
+            "name": "Csc",
+            "duration": 648
+          },
+          {
+            "name": "Csc",
+            "duration": 1813
+          },
+          {
+            "name": "Csc",
+            "duration": 499
+          },
+          {
+            "name": "Csc",
+            "duration": 1708
+          },
+          {
+            "name": "Csc",
+            "duration": 594
+          },
+          {
+            "name": "Csc",
+            "duration": 526
+          },
+          {
+            "name": "Csc",
+            "duration": 1385
+          },
+          {
+            "name": "Csc",
+            "duration": 321
+          },
+          {
+            "name": "Csc",
+            "duration": 402
+          },
+          {
+            "name": "Csc",
+            "duration": 1246
+          },
+          {
+            "name": "Csc",
+            "duration": 1434
+          },
+          {
+            "name": "Csc",
+            "duration": 886
+          },
+          {
+            "name": "Csc",
+            "duration": 2988
+          },
+          {
+            "name": "Csc",
+            "duration": 1986
+          },
+          {
+            "name": "Csc",
+            "duration": 1250
+          },
+          {
+            "name": "Csc",
+            "duration": 393
+          },
+          {
+            "name": "Csc",
+            "duration": 697
+          },
+          {
+            "name": "Csc",
+            "duration": 1640
+          },
+          {
+            "name": "Csc",
+            "duration": 758
+          },
+          {
+            "name": "Csc",
+            "duration": 1619
+          },
+          {
+            "name": "Csc",
+            "duration": 1057
+          },
+          {
+            "name": "Csc",
+            "duration": 696
+          },
+          {
+            "name": "Csc",
+            "duration": 1844
+          },
+          {
+            "name": "Csc",
+            "duration": 400
+          },
+          {
+            "name": "Csc",
+            "duration": 2330
+          },
+          {
+            "name": "Csc",
+            "duration": 1637
+          },
+          {
+            "name": "Csc",
+            "duration": 910
+          },
+          {
+            "name": "Csc",
+            "duration": 585
+          },
+          {
+            "name": "UnityLinker.exe",
+            "duration": 297
+          }
+        ]
+      },
+      "version": 1
+    },
+    {
+      "type": "unityLinkerData",
+      "msg": {
+        "build_event_id": "7d6a212a51c0dd641929f1d4cd95d15a",
+        "node_executed": true,
+        "option_rule_set": "Copy"
+      },
+      "version": 1
+    }
+  ]
+}
